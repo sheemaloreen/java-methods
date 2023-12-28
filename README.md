@@ -2,6 +2,7 @@
 This class provides methods for code reuse, including sorting arrays, calculating statistics on arrays, and performing matrix addition.
  
 public class CodeReuse {
+       SORTING ARRAYS METHOD
 
      * Sorts the given array of integers in ascending order using Arrays.sort.
      
@@ -11,6 +12,7 @@ public class CodeReuse {
         Arrays.sort(array);
     }
 
+     CALCLATING STATISTICS METHOD
     /**
      * Calculates the maximum value, minimum value, and average of the numbers
      * in the given array of integers.
@@ -33,6 +35,7 @@ public class CodeReuse {
         return stats;
     }
 
+    MATRIX ADDITION METHOD
     /**
      * Performs matrix addition on two matrices and returns the resultant matrix.
      *
